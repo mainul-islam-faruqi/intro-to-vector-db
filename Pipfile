@@ -15,6 +15,7 @@ python-dotenv = "*"
 langchain-openai = "*"
 langchain-text-splitters = "*"
 unstructured = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
